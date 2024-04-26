@@ -1,0 +1,105 @@
+/* .heading{ */
+    /* height:500px; */
+    /* color: brown;
+    background-color: blue; */
+
+    /* color: #126543;
+    background-color: #abcdbb; */
+
+    /* color: rgb(red, green, blue);
+    background-color: rgb(red, green, blue); */
+
+    /* color: rgb(43, 150, 98);
+    background-color: rgb(100, 200, 250); */
+
+    /* color: rgb(80, 116, 44, 0.124);
+    background-color: rgba(179, 178, 234, 0.577); */
+
+    /* color: linear-gradient(red,green,blue,yellow);
+    background-image: linear-gradient(to right bottom,red,green,blue,yellow);
+    background: linear-gradient(to right bottom,red,green,blue,yellow) ; */
+
+    /* background-color:#096d79 ; */
+    /* background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,79,121,1) 35%, rgba(0,212,255,1) 100%); */
+
+    /* background: radial-gradient(#234127,#aaccdb,#aadbaa,#456112); */
+    /* background: radial-gradient(circle, rgba(2,0,36,1) 50%, rgba(61,53,21,0) 115%, rgba(0,212,255,1) 10%); */
+
+    /* background-color:#FFFFFF; */
+
+
+    
+/* } */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html{
+    width:100%;
+    height:130%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+ 
+   background: linear-gradient(#342912,#aabbbc,brown);
+}
+
+body{
+    font-family: sans-serif;
+    line-height: 1.4;
+}
+
+.heading{
+    color:rgba(255, 255, 255, 0.742);
+}
+
+.img{
+    width:"300px";
+    margin-left: 450px;
+}
+
+.para{
+    color:darkred;
+    padding-left: 450px;
+    padding-top: 10px;
+}
+
+.container 1{
+    width:1000px;
+}
+
+.info{
+   border: 1px solid black;
+   width: 300px;
+   margin-left: 20px;
+   margin-top: 70px;
+   background-color:#E88E3C ;
+   padding: 10px;
+   margin-bottom: 29px;
+   
+   box-shadow: rgb(113, 102, 34) 0px 0px 0px 2px inset, rgb(255, 255, 255) 10px -10px 0px -3px, rgb(31, 193, 27) 10px -10px, rgb(255, 255, 255) 20px -20px 0px -3px, rgb(255, 217, 19) 20px -20px, rgb(255, 255, 255) 30px -30px 0px -3px, rgb(255, 156, 85) 30px -30px, rgb(255, 255, 255) 40px -40px 0px -3px, rgb(255, 85, 85) 40px -40px;
+}
+
+.contact{
+    padding: 5px;
+ 
+}
+
+.links{
+text-align: center;
+text-decoration: none;
+    border: 1px solid red;
+    width:300px;
+    margin-left: 1000px;
+   margin-bottom: 1000px;
+   background-color: black;
+  
+   box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.heading-2{
+    color:red;
+}
+
